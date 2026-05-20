@@ -1,4 +1,4 @@
-# Blog Title :link: Huadabing1/Huadabing1.github.io
+# Blog Title :link: Huadabing1.github.io
 ### :page_facing_up: [1](https://DanJDay.github.io/Huabing.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 3 
